@@ -110,9 +110,7 @@ pip install pandas
 ## 👤 Author
 
 **[Akash Kumar Malik]**
-* Data Science Student & Power BI Developer
-* [LinkedIn](#https://www.linkedin.com/in/akash-malik-b314212a0/) | [GitHub](#https://github.com/Akash123-cyber/US-Aviation-Performance-and-Delay-Analysis-Dashboard)
-
+* Data Science Student Lovely Professional University
 ---
 
 **Disclaimer:** This project uses public data from the US Department of Transportation. It is for educational and analytical demonstration purposes only.
