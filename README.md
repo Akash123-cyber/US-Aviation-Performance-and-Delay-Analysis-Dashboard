@@ -18,8 +18,7 @@ The report is divided into a strategic landing page plus 5 analytical views, eac
 | **1** | **Executive Control Tower** | C-Suite / VPs | High-level KPIs (OTP%, Cancellation Rate), Monthly Trends, and Financial Impact ($). |
 | **2** | **Geo-Spatial Analysis** | Ops Managers | Interactive flow maps of routes, congestion heatmaps, and long-haul performance. |
 | **3** | **Carrier Benchmarking** | Strategy Team | Head-to-head comparison of airlines (e.g., Delta vs. United) on reliability and speed. |
-| **4** | **Root Cause Analysis** | Engineers | AI Decomposition Tree breaking down delays by Weather, NAS, Carrier, and Security factors. |
-| **5** | **Airport Deep Dive** | Station Managers | Granular hourly congestion analysis and taxi-in/out efficiency for specific hubs. |
+
 
 ---
 
@@ -97,13 +96,7 @@ pip install pandas
 
 ---
 
-## 📸 Screenshots
-
-*(Place your dashboard screenshots here)*
-
-| Executive Overview | Geo-Spatial Map |
-| :---: | :---: |
-| ![Page 1](path/to/image1.png) | ![Page 2](path/to/image2.png) |
+## [Drive Link to Dashboard](https://drive.google.com/drive/folders/1Q3Rkb7_IEFiZ4gAhIL_Gy0s6qTysQdwo)
 
 ---
 
